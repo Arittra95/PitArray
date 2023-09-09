@@ -52,7 +52,7 @@ If you have not already installed Conda, you can download and install Miniconda 
 Open your terminal or command prompt and run the following command to create a Conda environment named "pitarray" with the required dependencies:
 
 ```bash
-conda create -n pitarray python=3.8 numpy=1.23.5 pandas=1.5.3 scikit-learn=1.2.2 matplotlib=3.7.1 seaborn=0.12.2 joblib=1.3.2
+conda create -n pitarray python=3.10.12 numpy=1.23.5 pandas=1.5.3 scikit-learn=1.2.2 matplotlib=3.7.1 seaborn=0.12.2 joblib=1.3.2
 ```
 This command will create a new environment with the specified library versions.
 
