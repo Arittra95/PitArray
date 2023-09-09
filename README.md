@@ -77,3 +77,10 @@ When you are done working on your project, you can deactivate the "pitarray" env
 ```bash
 conda deactivate
 ```
+### Applications
+
+Use PitArray for research purposes only. 
+
+### Collaboration
+If you want to collaborate on this project please contact: bioinformatics.division.nib.gov.bd@gmail.com 
+or visit the official website of the National Institute of Biotechnology, Dhaka, Bangladesh (http://www.nib.gov.bd/). 
