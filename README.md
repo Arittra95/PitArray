@@ -81,6 +81,6 @@ conda deactivate
 
 Use PitArray for research purposes only. 
 
-### Collaboration
-If you want to collaborate on this project please contact: bioinformatics.division.nib.gov.bd@gmail.com 
-or visit the official website of the National Institute of Biotechnology, Dhaka, Bangladesh (http://www.nib.gov.bd/). 
+### How to Contribute? 
+If you want to contribute to this project for further development please contact: bioinformatics.division.nib.gov.bd@gmail.com 
+or visit the official website of the National Institute of Biotechnology, Dhaka, Bangladesh (http://www.nib.gov.bd/).  
