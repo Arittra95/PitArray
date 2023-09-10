@@ -33,7 +33,7 @@ You will need the following Python libraries installed:
 - [Time](https://docs.python.org/3/library/time.html) (version 1.23.5)
 - [Joblib](https://joblib.readthedocs.io/en/latest/) (version 1.3.2)
 
-### Installation using pip
+### Installation of dependencies using pip
 
 You can install these dependencies using pip:
 
@@ -41,7 +41,7 @@ You can install these dependencies using pip:
 pip install numpy==1.23.5 pandas==1.5.3 scikit-learn==1.2.2 matplotlib==3.7.1 seaborn==0.12.2 time==1.23.5 joblib==1.3.2
 
  ```
-### Installation using Conda
+### Installation of dependencies using Conda
 
 #### Install Conda:
 
