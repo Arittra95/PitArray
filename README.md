@@ -12,7 +12,7 @@ You can use PitArray by [Google Colab](https://colab.research.google.com/github/
 
 ## Download the model:
 
-To run pitArray on your local computer, you can download the whole repository using the git command:
+To run PitArray on your local computer, you can download the whole repository using the git command:
 
 ```bash
 
