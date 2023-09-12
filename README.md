@@ -8,7 +8,7 @@ A Parkinson's Disease detection tool
 Welcome to ParkInson's disease detection Tool using blood-based microArray data (PitArray), a convenient tool for the non-invasive diagnosis of Parkinson's Disease. PitArray has been developed using blood-based microarray data. It has been trained on Affymetrix-based gene expressions only. PirArray can classify the disease from Robust Multi-array Average (RMA) normalized inputs (as .csv file) from R package affy (https://bioconductor.org/packages/release/bioc/html/affy.html).
 
 ## Usage
-You can use PitArray by Google Colab.
+You can use PitArray by [Google Colab](https://github.com/Arittra95/PitArray/blob/main/PitArray_01.ipynb).
 
 ## Download the model:
 
